@@ -1,0 +1,19 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dsenior21/javascript.git"
+  },
+  "author": "Diego Senior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dsenior21/javascript/issues"
+  },
+  "homepage": "https://github.com/Dsenior21/javascript#readme"
+}
