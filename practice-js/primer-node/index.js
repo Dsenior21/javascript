@@ -1,2 +1,1 @@
-for (i=0; i <10; i++);
-console.log("Hola");
+console,console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo");
