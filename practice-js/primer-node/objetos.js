@@ -8,3 +8,11 @@ const obj = {
 
 const edadObj = obj.edad;
 console.log(edadObj)
+
+const obj2 = {
+    nombre: "Julian",
+    apellido: "Castañeda",
+    edad: "23",
+    altura: 185,
+    eresdesarrollador: false,
+}
